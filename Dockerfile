@@ -9,12 +9,10 @@ COPY . .
 
 ENV CGO_ENABLED=0
 
-RUN go get github.com/mdomke/git-semver/v6 \
-    && go mod tidy \
-    && go build -v \
+RUN go build -v \
       -ldflags "\
-        -X main.Version=$(git semver --no-pre) \
-        -X main.Revision=$(git semver) \
+        -X main.Version=$(go tool git-semver --no-pre) \
+        -X main.Revision=$(go tool git-semver) \
         -X main.Branch=$(git branch --show-current) \
         -X main.BuildUser=$(id -u --name)@$(hostname) \
         -X main.BuildDate=$(date --utc --iso-8601=seconds)" \
