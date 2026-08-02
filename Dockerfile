@@ -26,11 +26,11 @@ RUN go build -v \
 FROM gcr.io/distroless/static:latest
 
 LABEL org.opencontainers.image.title="targetd-provisioner"
-LABEL org.opencontainers.image.description="targetd-provisioner is storage provisoner for Kubernetes that uses targetd as a backend."
-LABEL org.opencontainers.image.authors="Johan Fleury <jfleury@arcaik.net>"
+LABEL org.opencontainers.image.description="targetd-provisioner is storage provisoner for Kubernetes that uses targetd as a backend (fork of arcaik/targetd-provisioner)."
+LABEL org.opencontainers.image.authors="Anthony Ruhier <aruhier>"
 LABEL org.opencontainers.image.licenses="GPL-3.0-or-later"
-LABEL org.opencontainers.image.url="https://gitlab.com/Arcaik/targetd-provisioner"
-LABEL org.opencontainers.image.source="https://gitlab.com/Arcaik/targetd-provisioner"
+LABEL org.opencontainers.image.url="https://github.com/aruhier/targetd-provisioner"
+LABEL org.opencontainers.image.source="https://github.com/aruhier/targetd-provisioner"
 
 COPY --from=builder /go/bin/targetd-provisioner /targetd-provisioner
 

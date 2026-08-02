@@ -8,7 +8,7 @@ import (
 	"gitlab.com/Arcaik/external-provisioner/pkg/controller"
 	"gitlab.com/Arcaik/external-provisioner/pkg/version"
 
-	"gitlab.com/Arcaik/targetd-provisioner/internal/provisioner"
+	"github.com/aruhier/targetd-provisioner/internal/provisioner"
 )
 
 var (
