@@ -8,8 +8,8 @@ require (
 	github.com/aruhier/targetd-client-go v0.1.0
 	github.com/spf13/cobra v1.10.2
 	gitlab.com/Arcaik/external-provisioner v0.6.0
-	k8s.io/api v0.26.1
-	k8s.io/apimachinery v0.26.1
+	k8s.io/api v0.36.3
+	k8s.io/apimachinery v0.36.3
 )
 
 require (
