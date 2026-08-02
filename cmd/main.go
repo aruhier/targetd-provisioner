@@ -5,8 +5,8 @@ import (
 	"os"
 
 	"github.com/spf13/cobra"
-	"gitlab.com/Arcaik/external-provisioner/pkg/controller"
-	"gitlab.com/Arcaik/external-provisioner/pkg/version"
+	"github.com/aruhier/kubernetes-external-provisioner/pkg/controller"
+	"github.com/aruhier/kubernetes-external-provisioner/pkg/version"
 
 	"github.com/aruhier/targetd-provisioner/internal/provisioner"
 )

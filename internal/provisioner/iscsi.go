@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"gitlab.com/Arcaik/external-provisioner/pkg/controller"
+	"github.com/aruhier/kubernetes-external-provisioner/pkg/controller"
 	"github.com/aruhier/targetd-client-go/pkg/targetd"
 	v1 "k8s.io/api/core/v1"
 	storagev1 "k8s.io/api/storage/v1"
