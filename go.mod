@@ -6,7 +6,7 @@ tool github.com/mdomke/git-semver/v6
 
 require (
 	github.com/aruhier/targetd-client-go v0.1.0
-	github.com/spf13/cobra v1.7.0
+	github.com/spf13/cobra v1.10.2
 	gitlab.com/Arcaik/external-provisioner v0.5.2
 	k8s.io/api v0.26.1
 	k8s.io/apimachinery v0.26.1
@@ -75,7 +75,7 @@ require (
 	github.com/prometheus/client_model v0.2.0 // indirect
 	github.com/prometheus/common v0.34.0 // indirect
 	github.com/prometheus/procfs v0.7.3 // indirect
-	github.com/spf13/pflag v1.0.5 // indirect
+	github.com/spf13/pflag v1.0.9 // indirect
 	go.uber.org/atomic v1.9.0 // indirect
 	go.uber.org/multierr v1.8.0 // indirect
 	go.uber.org/zap v1.23.0 // indirect
