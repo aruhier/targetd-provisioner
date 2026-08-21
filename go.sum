@@ -13,6 +13,8 @@ github.com/armon/go-socks5 v0.0.0-20160902184237-e75332964ef5 h1:0CwZNZbxp69SHPd
 github.com/armon/go-socks5 v0.0.0-20160902184237-e75332964ef5/go.mod h1:wHh0iHkYZB8zMSxRWpUBQtwG5a7fFgvEO+odwuTv2gs=
 github.com/aruhier/kubernetes-external-provisioner v0.6.1 h1:4kMJVInVhs3VR91baPE+lnPOJGzVxTrNp7kgegZPA80=
 github.com/aruhier/kubernetes-external-provisioner v0.6.1/go.mod h1:9vBi+nCJja0NKoKCP1Qm9krnldbLDB7MGG74DSTucV8=
+github.com/aruhier/kubernetes-external-provisioner v0.6.2 h1:29I8UzluUJlKFbYJgn3oLh7DiGwqZZzIXjZAd6DuW+E=
+github.com/aruhier/kubernetes-external-provisioner v0.6.2/go.mod h1:PgjOzzrqacC01BzNWa4Db4ZI3s6z+4skQRav8WYmCZQ=
 github.com/aruhier/targetd-client-go v0.1.0 h1:F+Ds5RVnqXa85wgfagmBvagV/1TmCCOTRZe1BW8vCTg=
 github.com/aruhier/targetd-client-go v0.1.0/go.mod h1:lMd32t0SDmYA1/kTv4k6so4KNMGPgMjbooPRHtusThI=
 github.com/beorn7/perks v1.0.1 h1:VlbKKnNfV8bJzeqoa4cOKqO6bYr3WgKZxO8Z16+hsOM=
@@ -248,6 +250,8 @@ k8s.io/apimachinery v0.36.4 h1:PT2UzkupGuAx/+xT5XjiMJ1WGpY3fn9/hdAvjweRet4=
 k8s.io/apimachinery v0.36.4/go.mod h1:p2I2dipt7JHG+quVwQ1d02d28O4GdDi77RByQ13MTpk=
 k8s.io/client-go v0.36.3 h1:M4JdVzXxYcZk4fGpfDdYnxSwhLKWCFoQsHW6t+z8Hfg=
 k8s.io/client-go v0.36.3/go.mod h1:gcPwr0c87vjjG6HB6pWEqOeuYVoXSsREjzux2j6GF30=
+k8s.io/client-go v0.36.4 h1:MDvfDNvMSt0Br94SK8neviVlwL9qifw9B26hJCpD1K0=
+k8s.io/client-go v0.36.4/go.mod h1:pNK4WKELbwlEDvtbE8l22lEZL5THYF61H5EealokZmA=
 k8s.io/klog/v2 v2.140.0 h1:Tf+J3AH7xnUzZyVVXhTgGhEKnFqye14aadWv7bzXdzc=
 k8s.io/klog/v2 v2.140.0/go.mod h1:o+/RWfJ6PwpnFn7OyAG3QnO47BFsymfEfrz6XyYSSp0=
 k8s.io/kube-openapi v0.0.0-20260317180543-43fb72c5454a h1:xCeOEAOoGYl2jnJoHkC3hkbPJgdATINPMAxaynU2Ovg=
