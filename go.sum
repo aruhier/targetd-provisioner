@@ -17,6 +17,8 @@ github.com/aruhier/kubernetes-external-provisioner v0.6.2 h1:29I8UzluUJlKFbYJgn3
 github.com/aruhier/kubernetes-external-provisioner v0.6.2/go.mod h1:PgjOzzrqacC01BzNWa4Db4ZI3s6z+4skQRav8WYmCZQ=
 github.com/aruhier/targetd-client-go v0.1.0 h1:F+Ds5RVnqXa85wgfagmBvagV/1TmCCOTRZe1BW8vCTg=
 github.com/aruhier/targetd-client-go v0.1.0/go.mod h1:lMd32t0SDmYA1/kTv4k6so4KNMGPgMjbooPRHtusThI=
+github.com/aruhier/targetd-client-go v0.1.1 h1:3CC6APSJTbtmlNjbFPdHNeCLwQgeYFBh0U8JqTZ158M=
+github.com/aruhier/targetd-client-go v0.1.1/go.mod h1:+n94v1X0WZQjHCqIZMOZwgNFJnppk+uGSmqcOcEHjfc=
 github.com/beorn7/perks v1.0.1 h1:VlbKKnNfV8bJzeqoa4cOKqO6bYr3WgKZxO8Z16+hsOM=
 github.com/beorn7/perks v1.0.1/go.mod h1:G2ZrVWU2WbWT9wwq4/hrbKbnv/1ERSJQ0ibhJ6rlkpw=
 github.com/cespare/xxhash/v2 v2.3.0 h1:UL815xU9SqsFlibzuggzjXhog7bL6oX9BbNZnL2UFvs=
