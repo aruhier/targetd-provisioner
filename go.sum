@@ -15,6 +15,8 @@ github.com/aruhier/kubernetes-external-provisioner v0.6.2 h1:29I8UzluUJlKFbYJgn3
 github.com/aruhier/kubernetes-external-provisioner v0.6.2/go.mod h1:PgjOzzrqacC01BzNWa4Db4ZI3s6z+4skQRav8WYmCZQ=
 github.com/aruhier/targetd-client-go v0.1.1 h1:3CC6APSJTbtmlNjbFPdHNeCLwQgeYFBh0U8JqTZ158M=
 github.com/aruhier/targetd-client-go v0.1.1/go.mod h1:+n94v1X0WZQjHCqIZMOZwgNFJnppk+uGSmqcOcEHjfc=
+github.com/aruhier/targetd-client-go v0.1.2 h1:JbHcLs0rdTVcaeNVrpogVgZIZFVEOtmHXdjliTwi0wE=
+github.com/aruhier/targetd-client-go v0.1.2/go.mod h1:qq14t5Ac8RTlCSKyrcvxWvbHJ0FGFnICHZnC5h5D32o=
 github.com/beorn7/perks v1.0.1 h1:VlbKKnNfV8bJzeqoa4cOKqO6bYr3WgKZxO8Z16+hsOM=
 github.com/beorn7/perks v1.0.1/go.mod h1:G2ZrVWU2WbWT9wwq4/hrbKbnv/1ERSJQ0ibhJ6rlkpw=
 github.com/cespare/xxhash/v2 v2.3.0 h1:UL815xU9SqsFlibzuggzjXhog7bL6oX9BbNZnL2UFvs=
@@ -147,6 +149,8 @@ github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 h1:Jamvg5psRI
 github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/powerman/rpc-codec v1.2.2 h1:BK0JScZivljhwW/vLLhZLtUgqSxc/CD3sHEs8LiwwKw=
 github.com/powerman/rpc-codec v1.2.2/go.mod h1:3Qr/y/+u3CwcSww9tfJMRn/95lB2qUdUeIQe7BYlLDo=
+github.com/powerman/rpc-codec v1.3.0 h1:TVZvznzx+qEJ+ks+Ed46Gyef0DQrJVJfGt8m1FBF3ls=
+github.com/powerman/rpc-codec v1.3.0/go.mod h1:zx1rlLqVuZ5mjJ4WNBPzNTu3R4PUSiThlhQebMSLCmo=
 github.com/prometheus/client_golang v1.23.2 h1:Je96obch5RDVy3FDMndoUsjAhG5Edi49h0RJWRi/o0o=
 github.com/prometheus/client_golang v1.23.2/go.mod h1:Tb1a6LWHB3/SPIzCoaDXI4I8UHKeFTEQ1YCr+0Gyqmg=
 github.com/prometheus/client_model v0.6.2 h1:oBsgwpGs7iVziMvrGhE53c/GrLUsZdHnqNwqPLxwZyk=
