@@ -6,7 +6,7 @@ tool github.com/mdomke/git-semver/v6
 
 require (
 	github.com/aruhier/kubernetes-external-provisioner v0.6.2
-	github.com/aruhier/targetd-client-go v0.1.1
+	github.com/aruhier/targetd-client-go v0.1.2
 	github.com/spf13/cobra v1.10.2
 	k8s.io/api v0.37.2
 	k8s.io/apimachinery v0.37.2
@@ -58,7 +58,7 @@ require (
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
 	github.com/pjbgf/sha1cd v0.3.2 // indirect
 	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 // indirect
-	github.com/powerman/rpc-codec v1.2.2 // indirect
+	github.com/powerman/rpc-codec v1.3.0 // indirect
 	github.com/prometheus/client_golang v1.23.2 // indirect
 	github.com/prometheus/client_model v0.6.2 // indirect
 	github.com/prometheus/common v0.67.5 // indirect
