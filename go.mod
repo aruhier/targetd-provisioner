@@ -8,8 +8,8 @@ require (
 	github.com/aruhier/kubernetes-external-provisioner v0.6.2
 	github.com/aruhier/targetd-client-go v0.1.2
 	github.com/spf13/cobra v1.10.2
-	k8s.io/api v0.37.2
-	k8s.io/apimachinery v0.37.2
+	k8s.io/api v0.37.3
+	k8s.io/apimachinery v0.37.3
 )
 
 require (
